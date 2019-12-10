@@ -1,0 +1,13 @@
+# IPython log file
+
+# Tue, 10 Dec 2019 12:57:24
+from __future__ import print_function
+if raw_input ('One character: ') == '!':# Tue, 10 Dec 2019 12:57:53
+from __future__ import print_function
+if raw_input ('One character: ') == '!':
+    print('Wow', end='!')# Tue, 10 Dec 2019 13:01:05
+slogan = 'My school is the best'# Tue, 10 Dec 2019 13:01:22
+slogan = 'My school is the best'
+type(slogan)#[Out]# str
+# Tue, 10 Dec 2019 13:01:29
+slogan#[Out]# 'My school is the best'
