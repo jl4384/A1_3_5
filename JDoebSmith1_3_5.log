@@ -1,0 +1,110 @@
+# IPython log file
+
+# Thu, 12 Dec 2019 12:36:51
+from __future__ import print_function
+if raw_input('One character: ') == '!'
+    print('Wow', end='!')
+    
+    
+One Character: !
+Wow!# Thu, 12 Dec 2019 12:36:59
+from __future__ import print_function
+if raw_input('One character: ') == '!'
+    print('Wow', end='!')
+    
+    
+One Character: !
+Wow!# Thu, 12 Dec 2019 12:38:13
+slogan = 'My school is the best'
+type (slogan)#[Out]# str
+# Thu, 12 Dec 2019 12:38:19
+slogan#[Out]# 'My school is the best'
+# Thu, 12 Dec 2019 12:38:41
+from __future__ import print_function
+if input('One character: ') == '!'
+    print('Wow', end='!')
+    
+    
+One Character: !
+Wow!# Thu, 12 Dec 2019 12:38:47
+from __future__ import print_function
+if input('One character: ') == '!'
+print('Wow', end='!')
+    
+    
+One Character: !
+Wow!# Thu, 12 Dec 2019 12:39:06
+from __future__ import print_function
+if input('One character: ') =='!':
+    print('Wow', end='!')
+    
+    
+One Character: !
+Wow!# Thu, 12 Dec 2019 12:39:22
+from __future__ import print_function
+if input('One character: ') == '!':
+    print('Wow', end='!')
+    
+    
+One Character:!
+Wow!# Thu, 12 Dec 2019 12:39:39
+from __future__ import print_function
+if input('One character: ') == '!':
+    print('Wow', end='!')# Thu, 12 Dec 2019 12:39:58
+slogan = 'My school is the best'
+type (slogan)#[Out]# str
+# Thu, 12 Dec 2019 12:39:58
+slogan = 'My school is the best'
+type (slogan)#[Out]# str
+# Thu, 12 Dec 2019 12:39:58
+slogan#[Out]# 'My school is the best'
+# Thu, 12 Dec 2019 12:40:48
+type('tr' + "y this")
+type('tr' + 5)
+#7. (Discuss and explain)# Thu, 12 Dec 2019 12:41:26
+type('tr' + "y this")#[Out]# str
+# Thu, 12 Dec 2019 12:41:39
+type('tr' + 5)# Thu, 12 Dec 2019 12:41:47
+type('tr' + 5)# Thu, 12 Dec 2019 12:42:05
+type('tr' + 5)
+#7. (Discuss and explain)# Thu, 12 Dec 2019 12:42:10
+type('tr' + 5)# Thu, 12 Dec 2019 12:42:37
+slogan[0]#[Out]# 'M'
+# Thu, 12 Dec 2019 12:42:47
+slogan = 'My school is the best'
+type (slogan)#[Out]# str
+# Thu, 12 Dec 2019 12:42:49
+slogan#[Out]# 'My school is the best'
+# Thu, 12 Dec 2019 12:42:49
+type('tr' + "y this")#[Out]# str
+# Thu, 12 Dec 2019 12:42:49
+slogan[0]#[Out]# 'M'
+# Thu, 12 Dec 2019 12:43:00
+slogan[2]#[Out]# ' '
+# Thu, 12 Dec 2019 12:43:10
+slogan[8]#[Out]# 'l'
+# Thu, 12 Dec 2019 12:43:19
+sslogan[26]# Thu, 12 Dec 2019 12:43:24
+slogan[26]# Thu, 12 Dec 2019 12:43:36
+slogan[26]# Thu, 12 Dec 2019 12:43:51
+slogan[-2]#[Out]# 's'
+# Thu, 12 Dec 2019 12:44:24
+slogan[0:5]#[Out]# 'My sc'
+# Thu, 12 Dec 2019 12:44:36
+slogan[5:21]#[Out]# 'hool is the best'
+# Thu, 12 Dec 2019 12:50:03
+slogan[:5]#[Out]# 'My sc'
+# Thu, 12 Dec 2019 12:50:41
+# 9. SLicing
+(write code to return 'best')# Thu, 12 Dec 2019 12:51:18
+slogan[:13] + 'awesome!'#[Out]# 'My school is awesome!'
+# Thu, 12 Dec 2019 12:52:07
+len(slogan)#[Out]# 21
+# Thu, 12 Dec 2019 12:52:32
+activity = 'theater'# Thu, 12 Dec 2019 12:52:51
+len(activity)#[Out]# 7
+# Thu, 12 Dec 2019 13:04:25
+'test goo' in 'Greatest good for the greatest number!'#[Out]# True
+# Thu, 12 Dec 2019 13:04:37
+# 12. (Discuss and explain.)# Thu, 12 Dec 2019 13:04:50
+how_eligible('This? "Yes." No, not really!')
